@@ -66,3 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### https://www.golangprograms.com/bill-and-discount-calculator-in-react-js.html
+In this example project we are calculating total tip and sharing based on selected percentage of discount. As user enter total bill amount, discount get calculated based on selected %5 or %10 or any.
